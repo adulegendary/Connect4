@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\doucument for my.cpp\connect 4 assig.cpp\Source.cpp(165,7): warning C4101: 'board': unreferenced local variable
+  Generating code
+  2 of 94 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  connect 4 assig.cpp.vcxproj -> D:\doucument for my.cpp\connect 4 assig.cpp\Release\connect 4 assig.cpp.exe
